@@ -15,3 +15,6 @@ Our dataset contains :
 
 Additional data, including individual fixation locations for each observer, will be shortly added to this page.
 
+## Contact
+
+ If you have any questions about our work, or need supplementary material, please contact us at <alexandre.bruckert@irisa.fr>
