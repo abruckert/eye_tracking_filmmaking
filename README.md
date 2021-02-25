@@ -15,10 +15,12 @@ Our dataset contains :
 
 Additional data, including individual fixation locations for each observer, will be shortly added to this page.
 
+Data is available for download [here](ftp://ftp.irisa.fr/local/percept/datasets/saliency/video/Film_editing/eye_tracking_filmmaking.rar)
+
 ## Contact
 
  If you have any questions about our work, or need supplementary material, please contact us at <alexandre.bruckert@irisa.fr>
 
 ## License
 
-This dataset is licensed under a Creative Commons Attribution 4.0 License [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+This dataset is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode) [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
