@@ -15,7 +15,7 @@ Our dataset contains :
 
 Additional data, including individual fixation locations for each observer, will be shortly added to this page.
 
-Data is available for download here: 
+Data is available for download here (~1.7Go): 
 ftp://ftp.irisa.fr/local/percept/datasets/saliency/video/Film_editing/eye_tracking_filmmaking.rar
 
 ## Contact
