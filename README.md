@@ -18,3 +18,7 @@ Additional data, including individual fixation locations for each observer, will
 ## Contact
 
  If you have any questions about our work, or need supplementary material, please contact us at <alexandre.bruckert@irisa.fr>
+
+## License
+
+ [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
