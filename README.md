@@ -21,4 +21,4 @@ Additional data, including individual fixation locations for each observer, will
 
 ## License
 
- [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+This dataset is licensed under a Creative Commons Attribution 4.0 License [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
